@@ -1,6 +1,9 @@
-# avalon
+# Avalon
 
-1. Initialize the project
+## Get Started
+
+Initialize the project
+
    ```zsh
-   make init
+   nvm install
    ```
