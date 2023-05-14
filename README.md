@@ -5,7 +5,7 @@
 Initialize the project
 
    ```zsh
-   nvm install
+   nvm install --lts && nvm use --lts
    ```
 
 Start Linux workspace
