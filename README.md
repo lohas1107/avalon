@@ -1,15 +1,15 @@
 # Avalon
 
-## Get Started
+## Getting Started
 
-Initialize the project
+Install Node.js LTS version via nvm
 
    ```zsh
    nvm install --lts && nvm use --lts
    ```
 
-Start Linux workspace
+Start Linux workspace for development
 
    ```zsh
-   make
+   make workspace
    ```
